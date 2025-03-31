@@ -1,6 +1,6 @@
 ## Welcome to **CIELO-G**.
 
-![MasterHead](https://www.canva.com/design/DAGjVB1JpKc/ENCeUpLi-NNL0Si-TtFLrw/view?utm_content=DAGjVB1JpKc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf4456d90d8)
+![MasterHead](https://www.cielog.org/uploads/1/0/4/7/104708313/background-images/914255222.jpg)
 
 ## About
 The CIELO-G project aims to significantly reshape the culture of our geoscience community by fostering intentional and natural shifts in our interactions with the broader local community.

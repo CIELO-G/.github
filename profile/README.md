@@ -11,4 +11,4 @@ Central to our effort is Collective Impact, the commitment of a group of actors 
 ## Program Mission:
 To engage the local community and raise awareness of the geosciences while preparing students for careers in geoscience and STEM-related fields.
 
-🔗 **Visit us online:** [CIELO-G WEBSITE](\https://www.cielog.org/)  
+🔗 **Visit us online:** [https://www.cielog.org/](https://www.cielog.org/)  

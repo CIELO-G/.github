@@ -1,4 +1,4 @@
-## Welcome to **CIELO-G**.
+# Welcome to **CIELO-G**.
 
 ![MasterHead](https://www.cielog.org/uploads/1/0/4/7/104708313/background-images/914255222.jpg)
 

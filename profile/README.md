@@ -1,6 +1,6 @@
 ## Welcome to **CIELO-G**.
 
-[![MasterHead](https://t4.ftcdn.net/jpg/00/78/08/93/240_F_78089331_Gg57V2EkQ566wPisVY08N2PYNs319UhF.jpg)]
+[![MasterHead](https://t4.ftcdn.net/jpg/00/78/08/93/240_F_78089331_Gg57V2EkQ566wPisVY08N2PYNs319UhF.jpg)
 ## About
 The CIELO-G project aims to significantly reshape the culture of our geoscience community by fostering intentional and natural shifts in our interactions with the broader local community.
 Our project sets a precedent for transforming the national geosciences towards excellence through engaging learners from all backgrounds towards greater inclusivity and accessibility.
